@@ -1,6 +1,6 @@
-package sjd.java.implementations.squares;
+package main.java.sjd.implementations.squares;
 
-import sjd.java.abstractions.AbstractShape;
+import main.java.sjd.abstractions.AbstractShape;
 
 public class Square extends AbstractShape {
 	private int height;

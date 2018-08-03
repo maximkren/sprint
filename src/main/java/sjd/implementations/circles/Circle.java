@@ -1,6 +1,6 @@
-package sjd.java.implementations.circles;
+package main.java.sjd.implementations.circles;
 
-import sjd.java.abstractions.AbstractShape;
+import main.java.sjd.abstractions.AbstractShape;
 
 public class Circle extends AbstractShape {
 	private int radius;

@@ -1,9 +1,8 @@
-package sjd.java.runners;
+package main.java.sjd.runners;
 
-import sjd.java.implementations.circles.Circle;
-import sjd.java.implementations.squares.Square;
-import sjd.java.implementations.triangles.Triangle;
-
+import main.java.sjd.implementations.circles.Circle;
+import main.java.sjd.implementations.squares.Square;
+import main.java.sjd.implementations.triangles.Triangle;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 

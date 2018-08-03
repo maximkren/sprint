@@ -1,6 +1,6 @@
-package sjd.java.implementations.triangles;
+package main.java.sjd.implementations.triangles;
 
-import sjd.java.abstractions.AbstractShape;
+import main.java.sjd.abstractions.AbstractShape;
 
 public class Triangle extends AbstractShape {
 	private double sideA;

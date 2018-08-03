@@ -1,4 +1,4 @@
-package sjd.java.interfaces;
+package main.java.sjd.interfaces;
 
 public interface Shape {
 	public int getArea();
