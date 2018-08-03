@@ -1,10 +1,10 @@
-package main.test.sjd.implementations.triangles;
+package test.java.sjd.implementations.squares;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class TriangleTest {
+class SquareTest {
 
 	@Test
 	void test() {

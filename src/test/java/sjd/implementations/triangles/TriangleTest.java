@@ -1,10 +1,10 @@
-package main.test.sjd.implementations.circles;
+package test.java.sjd.implementations.triangles;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class CircleTest {
+class TriangleTest {
 
 	@Test
 	void test() {

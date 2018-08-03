@@ -1,10 +1,10 @@
-package main.test.sjd.implementations.squares;
+package test.java.sjd.implementations.circles;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class SquareTest {
+class CircleTest {
 
 	@Test
 	void test() {
