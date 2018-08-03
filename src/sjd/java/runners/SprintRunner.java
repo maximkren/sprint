@@ -8,9 +8,12 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class SprintRunner {
+	
+	private static Logger logger = Logger.getLogger(SprintRunner.class.getName());
+	
 	public static void main(String[] args) {
 
-		Logger logger = Logger.getLogger(SprintRunner.class.getName());
+		
 
 		Triangle triangle = new Triangle();
 
