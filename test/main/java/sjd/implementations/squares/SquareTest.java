@@ -1,4 +1,4 @@
-package test.java.sjd.implementations.squares;
+package main.java.sjd.implementations.squares;
 
 import static org.junit.jupiter.api.Assertions.*;
 

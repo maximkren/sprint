@@ -1,4 +1,4 @@
-package test.java.sjd.implementations.circles;
+package main.java.sjd.implementations.circles;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

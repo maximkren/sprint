@@ -1,4 +1,4 @@
-package test.java.sjd.implementations.triangles;
+package main.java.sjd.implementations.triangles;
 
 import static org.junit.jupiter.api.Assertions.*;
 
