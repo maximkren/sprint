@@ -21,21 +21,21 @@ public class SprintRunner {
 		triangle.setSideC(2);
 
 		Triangle triangle1 = new Triangle();
-		triangle.setSideA(5);
-		triangle.setSideB(2);
-		triangle.setSideC(7);
+		triangle1.setSideA(7);
+		triangle1.setSideB(7);
+		triangle1.setSideC(7);
 
 		Square square = new Square();
 		square.setSide(2);
 
 		Square square1 = new Square();
-		square.setSide(7);
+		square1.setSide(7);
 
 		Circle circle = new Circle();
 		circle.setRadius(2);
 
 		Circle circle1 = new Circle();
-		circle.setRadius(6);
+		circle1.setRadius(6);
 
 //        Output for TASK#2
 //		logger.info(" Triangle area is " + triangle.getArea() + " Square area is " + square.getArea()
@@ -70,8 +70,11 @@ public class SprintRunner {
 				}
 			}
 
-			logger.info("The shape with minimal area is " + minShape.getClass().getSimpleName());
-			logger.info("The shape with maximal area is " + maxShape.getClass().getSimpleName());
+			logger.info("The type with minimal area is " + minShape.getClass().getSimpleName() + " Area value is "
+					+ minShape.getArea());
+			
+			logger.info("The type with maximal area is " + maxShape.getClass().getSimpleName() + " Area value is "
+					+ maxShape.getArea());
 
 		}
 
