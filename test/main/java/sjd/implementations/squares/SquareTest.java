@@ -9,14 +9,13 @@ import main.java.sjd.implementations.squares.Square;
 class SquareTest {
 
 	@Test
-	void test() {
-		
-		Square square = new Square();
-		
-		square.setHeight(2);
-		square.setWidth(6);
+	void testGetArea() {
 
-		assertEquals(12, square.getArea());
+		Square square = new Square();
+
+		square.setSide(8);
+
+		assertEquals(64, square.getArea());
 
 	}
 

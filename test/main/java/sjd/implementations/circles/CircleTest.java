@@ -9,7 +9,7 @@ import main.java.sjd.implementations.circles.Circle;
 class CircleTest {
 
 	@Test
-	void getAreaTest() {
+	void testGetArea() {
 
 		Circle circle = new Circle();
 		

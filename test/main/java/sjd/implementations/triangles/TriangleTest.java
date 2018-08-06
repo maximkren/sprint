@@ -9,7 +9,7 @@ import main.java.sjd.implementations.triangles.Triangle;
 class TriangleTest {
 
 	@Test
-	void test() {
+	void testGetArea() {
 		
 		Triangle triangle = new Triangle();
 		
